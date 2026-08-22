@@ -28,8 +28,8 @@ Operations and customer support teams need visibility into delivery performance 
 
 ## Deliverables
 
-- [Business Requirements Document (BRD)](./BRD_Ecommerce_Delivery_Performance.md)
-- Power BI dashboard (screenshot below)<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/33180dd8-238a-4535-a74c-0707db4fedd6" />
+- [Business Requirements Document (BRD)]E%20commerce%20delivery%20performance
+- Power BI dashboard (screenshot below)
 
 
 ![Late delivery percentage by state](./late_percent_by_state.png)
